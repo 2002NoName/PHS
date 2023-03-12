@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="MainApp" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="pl.phs.PhsApplication" />
+    <module name="PHS" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
